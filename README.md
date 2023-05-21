@@ -1,4 +1,4 @@
-- Live Site URL: [[Add live site URL here](https://stats-preview-card-component-ak.netlify.app/)]
+- Live Site URL: [[Click here to view site](https://stats-preview-card-component-ak.netlify.app/)]
 
 
 Screenshots
